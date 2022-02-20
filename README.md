@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hassan Askar
+-    Java backend developer "Spring framework"  
 - 📫 Reach me by hassanemad15697@gmail.com
 
 <!---
